@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ON THAT ROAD.com</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<link rel="stylesheet" href="style33.css"/>
+
+</head>
+<body>
+<header>
+
+    <div id="menu-bar" class="fas fa-bars"></div>
+
+    <a href="#" class="logo"><img src="logo_.png" height="150px" width="200px"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+    <nav class="navbar">
+        <a href="home.html">home</a>
+        <a href="book.html">book</a>
+		    <a href="abt.html">about us</a>
+        <a href="packages.html">packages</a>
+        <a href="services.html">services</a>
+        <a href="gallery.html">gallery</a>
+        <a href="review.html">review</a>
+        <a href="contact.html">contact</a>
+    </nav>
+
+    <div class="icons">
+        <i class="fas fa-search" id="search-btn"></i>
+        <i class="fas fa-user" id="login-btn"></i>
+    </div>
+
+    <form action="" class="search-bar-container">
+        <input type="search" id="search-bar" placeholder="search here...">
+        <label for="search-bar" class="fas fa-search"></label>
+    </form>
+
+</header>
+<section class="packages" id="packages">
+<br>
+<br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+
+
+    <h1 class="heading">
+        <span>p</span>
+        <span>a</span>
+        <span>c</span>
+        <span>k</span>
+        <span>a</span>
+        <span>g</span>
+        <span>e</span>
+        <span>s</span>
+    </h1>
+
+    <div class="box-container">
+
+        <div class="box">
+            <img src="images/p-1.jpg" alt="">
+            <div class="content">
+                <h3> <i class="fas fa-map-marker-alt"></i> mumbai </h3>
+                <p>Mumbai is India’s wealthiest city. In fact, it is home to the majority of India’s billionaires. But apart from being the heart of India’s commerce and Bollywood film industry, this beautiful destination has natural, historical, and cultural riches to boast, making it one of the destinations that deserve a spot in your travel bucket list.here’s a 4-day itinerary that will bring you to the best of the city.</p>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="far fa-star"></i>
+                </div>
+                <div class="price"> ₹18000.00 <span>₹25000.00</span> </div>
+                               <a href="#" class="btn">see more</a><a href="#" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <img src="images/p-2.jpg" alt="">
+            <div class="content">
+                <h3> <i class="fas fa-map-marker-alt"></i> hawaii </h3>
+                <p>The Hawaiian Islands have something for every type of visitor, a paradise that has somewhat managed to retain a chunk of its pristine beauty despite mass tourism. Over the course of one week in Hawaii, you can scratch the surface and experience some of the top highlights in the islands you’ll visit.Here's a itinerary for spending 7 days in Hawaii. </p>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="far fa-star"></i>
+                </div>
+                <div class="price">₹1,49,999.00 <span>₹2,00,000.00</span> </div>
+                                <a href="#" class="btn">see more</a><a href="#" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <img src="images/p-3.jpg" alt="">
+            <div class="content">
+                <h3> <i class="fas fa-map-marker-alt"></i> sydney </h3>
+                <p>Sydney, the capital of New South Wales in Australia, is one of the oldest and largest cities in the country that has a multicultural outlook. Famous for the iconic landmarks like Sydney Harbour Bridge and Sydney Opera House. Tourists can go surfing at the famous Bondi Beach,among various other things. 
+This 7 day Sydney itinerary has been created to offer you a great blend of iconic sites, fun attractions, culture, and nature.</p>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="far fa-star"></i>
+                </div>
+                <div class="price"> ₹90000.00 <span>₹120000.00</span> </div>
+                <a href="#" class="btn">see more</a><a href="#" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <img src="images/p-4.jpg" alt="">
+            <div class="content">
+                <h3> <i class="fas fa-map-marker-alt"></i> paris </h3>
+                <p>Paris, la vie Parisienne, the glimmering lights, the bohemian alleys, and the grand monuments – this city never fails to inspire. 
+				Centuries-old churches with stained glass windows dominate gorgeous quartiers, a classic allure permeates above the entire city, 
+				and world-class showcases of architecture are seen at every turn.here's a 7-day itinerary to Paris</p>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="far fa-star"></i>
+                </div>
+                <div class="price"> ₹2,00,000.00 <span>₹2,20,000.00</span> </div>
+                 <a href="#" class="btn">see more</a><a href="#" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <img src="images/p-5.jpg" alt="">
+            <div class="content">
+                <h3> <i class="fas fa-map-marker-alt"></i> tokyo </h3>
+                <p> Japan is a wonderful country and Tokyo really is as colourful as you can imagine.It is an electric city, with unique zen corners, diverse restaurants and delicious dishes. 
+				This Tokyo itinerary will take you on a journey through historic quarters, spiritual sites, peaceful parks and thrilling districts. here's a 7-day itinerary to Paris</p>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="far fa-star"></i>
+                </div>
+                <div class="price"> ₹1,50,000.00 <span>₹1,70,000.00</span> </div>
+                 <a href="#" class="btn">see more</a><a href="#" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <img src="images/p-6.jpg" alt="">
+            <div class="content">
+                <h3> <i class="fas fa-map-marker-alt"></i> egypt </h3>
+                <p>Egypt tour itinerary 7 days packages are a week of wonder, tranquility, and magic waiting for every Indian traveler across the heavenly 
+				lands of Cairo, Alexandria, Luxor, Aswan, and the tropical waters of the red sea in the city resort of Hurghada. All our clients from the honorable country 
+				of India will get to explore the legendary history and diverse rich culture of Egypt. </p>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="far fa-star"></i>
+                </div>
+                <div class="price"> ₹1,20,000.00 <span>₹1,50,000.00</span> </div>
+                 <a href="#" class="btn">see more</a><a href="#" class="btn">book now</a>
+            </div>
+        </div>
+
+    </div>
+
+</section>
+
+<!-- footer section  -->
+<section class="brand-container">
+
+    <div class="swiper-container brand-slider">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide"><img src="images/1.jpg" alt=""></div>
+            <div class="swiper-slide"><img src="images/2.jpg" alt=""></div>
+            <div class="swiper-slide"><img src="images/3.jpg" alt=""></div>
+            <div class="swiper-slide"><img src="images/4.jpg" alt=""></div>
+            <div class="swiper-slide"><img src="images/5.jpg" alt=""></div>
+            <div class="swiper-slide"><img src="images/6.jpg" alt=""></div>
+        </div>
+    </div>
+
+</section>
+
+<!-- footer section  -->
+
+<section id="footer" class="footer">
+
+    <div class="box-container" >
+               <div class="box">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   <img src="logo_.png" alt="logo" height="150px" width="200px" >
+                   <p style="font-family:gigi;font-size:15px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A page for <b>travel freaks</b></p>
+               </div>
+               <div class="box"> 
+                   <h3>Office <div class="underline"><span></span></div></h3><br><br>
+                   <p>Chitkara University</p>
+                   <p>Chandigarh-Patiala National Highway</p>
+                   <p>Rajpura, Punjab, 140401</p>
+                   <p class="email-id">onthatroad@gmail.com</p>
+                   <h4>+91-0123456789</h4>
+               </div>
+               <div class="box">
+                   <h3>Links <div class="underline"><span></span></div></h3>
+                   <ul><br><br>
+                    <li><a href="home.html">Home</a></li>
+					<li><a href="book.html">Book</a></li>
+                    <li><a href="abt.html">About Us</a></li>
+					<li><a href="services.html">Services</a></li>
+                    <li><a href="packages.html">Packages</a></li>
+                    <li><a href="blog.html">Gallery</a></li>
+					<li><a href="review.html">Reviews</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                   </ul>
+               </div>
+               <div class="box">
+                   <h3>Newsletter<div class="underline"><span></span></div></h3><br>
+				   <br>
+                    <form >
+                        <i class="far fa-envelope"></i> &nbsp;
+                        <input type="email" placeholder="Enter your email id" required>
+                        <button type="submit"><i class="fas fa-arrow-right"></i></button>
+
+ 
+                    </form><br>
+                   <div class="social-icons">
+                      <i class="fab fa-facebook"></i>
+                      <i class="fab fa-instagram"></i>
+                      <i class="fab fa-youtube"></i>
+                      <i class="fab fa-twitter"></i>
+                     
+                    </div>
+
+
+               </div>
+           </div>
+           <hr>
+           <p class="copyright">Web Burners ⓒ 2021 - All Rights Reserved  </p>
+           <div class="made"><p>Made with ♡ by <b>Web Burners</b></p></div>
+
+</section>
+
+
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+<!-- custom js file link  -->
+<script src="js/script.js"></script>
+
+</body>
+</html>

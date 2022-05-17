@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ON THAT ROAD.com</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<link rel="stylesheet" href="style33.css"/>
+
+</head>
+<body>
+<header>
+
+    <div id="menu-bar" class="fas fa-bars"></div>
+
+    <a href="#" class="logo"><img src="logo_.png" height="150px" width="200px"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+    <nav class="navbar">
+        <a href="home.html">home</a>
+        <a href="book.html">book</a>
+		<a href="abt.html">about us</a>
+        <a href="packages.html">packages</a>
+        <a href="services.html">services</a>
+        <a href="gallery.html">gallery</a>
+        <a href="review.html">review</a>
+        <a href="contact.html">contact</a>
+    </nav>
+
+    <div class="icons">
+        <i class="fas fa-search" id="search-btn"></i>
+        <i class="fas fa-user" id="login-btn"></i>
+    </div>
+
+    <form action="" class="search-bar-container">
+        <input type="search" id="search-bar" placeholder="search here...">
+        <label for="search-bar" class="fas fa-search"></label>
+    </form>
+
+</header>
+
+<section class="services" id="services">
+<br>
+<br>
+<br>
+<br><br>
+<br>
+<br>
+<br><br>
+<br>
+<br>
+    <h1 class="heading">
+        <span>s</span>
+        <span>e</span>
+        <span>r</span>
+        <span>v</span>
+        <span>i</span>
+        <span>c</span>
+        <span>e</span>
+        <span>s</span>
+    </h1>
+
+    <div class="box-container">
+
+        <div class="box">
+            <i class="fas fa-hotel"></i>
+            <h3>affordable hotels</h3>
+            <p>Keeping in mind the budget of our clients, On That Road makes sure that all our clients get accomodated in luxurious as well as affordable hotels.</p>
+        </div>
+        <div class="box">
+            <i class="fas fa-utensils"></i>
+            <h3>food and drinks</h3>
+            <p>Complimentary food and drinks are provided on each booking!</p>
+        </div><br>
+        <div class="box">
+            <i class="fas fa-bullhorn"></i>
+            <h3>safety guide</h3>
+            <p>It is the responsibility of our safety guides to ensure hassle free and safe travel. </p>
+        </div>
+        <div class="box">
+            <i class="fas fa-globe-asia"></i>
+            <h3>around the world</h3>
+            <p>With our branches in multiple countries all around the globe, we provide our customers numerous exciting tour packages to beautiful destinations all around the world!</p>
+        </div>
+        <div class="box">
+            <i class="fas fa-plane"></i>
+            <h3>fastest travel</h3>
+            <p>On That Road makes sure that all the clients enjoy their fullest without wasting much time in travelling .</p>
+        </div>
+        <div class="box">
+            <i class="fas fa-hiking"></i>
+            <h3>adventures</h3>
+            <p>Keeping in mind the adrenaline,we make sure that numerous adventure activities are added in our itineraries!</p>
+        </div>
+
+    </div>
+
+</section>
+<section class="brand-container">
+
+    <div class="swiper-container brand-slider">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide"><img src="images/1.jpg" alt=""></div>
+            <div class="swiper-slide"><img src="images/2.jpg" alt=""></div>
+            <div class="swiper-slide"><img src="images/3.jpg" alt=""></div>
+            <div class="swiper-slide"><img src="images/4.jpg" alt=""></div>
+            <div class="swiper-slide"><img src="images/5.jpg" alt=""></div>
+            <div class="swiper-slide"><img src="images/6.jpg" alt=""></div>
+        </div>
+    </div>
+
+</section>
+<!-- footer section  -->
+
+<section id="footer" class="footer">
+
+    <div class="box-container" >
+               <div class="box">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                   <img src="logo_.png" alt="logo" height="150px" width="200px" >
+                   <p style="font-family:gigi;font-size:15px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A page for <b>travel freaks</b></p>
+               </div>
+               <div class="box"> 
+                   <h3>Office <div class="underline"><span></span></div></h3><br><br>
+                   <p>Chitkara University</p>
+                   <p>Chandigarh-Patiala National Highway</p>
+                   <p>Rajpura, Punjab, 140401</p>
+                   <p class="email-id">onthatroad@gmail.com</p>
+                   <h4>+91-0123456789</h4>
+               </div>
+               <div class="box">
+                   <h3>Links <div class="underline"><span></span></div></h3>
+                   <ul><br><br>
+                    <li><a href="home.html">Home</a></li>
+					<li><a href="book.html">Book</a></li>
+                    <li><a href="abt.html">About Us</a></li>
+					<li><a href="services.html">Services</a></li>
+                    <li><a href="packages.html">Packages</a></li>
+                    <li><a href="blog.html">Gallery</a></li>
+					<li><a href="review.html">Reviews</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                   </ul>
+               </div>
+               <div class="box">
+                   <h3>Newsletter<div class="underline"><span></span></div></h3><br>
+				   <br>
+                    <form >
+                        <i class="far fa-envelope"></i> &nbsp;
+                        <input type="email" placeholder="Enter your email id" required>
+                        <button type="submit"><i class="fas fa-arrow-right"></i></button>
+
+ 
+                    </form><br>
+                   <div class="social-icons">
+                      <i class="fab fa-facebook"></i>
+                      <i class="fab fa-instagram"></i>
+                      <i class="fab fa-youtube"></i>
+                      <i class="fab fa-twitter"></i>
+                     
+                    </div>
+
+
+               </div>
+           </div>
+           <hr>
+           <p class="copyright">Web Burners ⓒ 2021 - All Rights Reserved  </p>
+           <div class="made"><p>Made with ♡ by <b>Web Burners</b></p></div>
+
+</section>
+
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+<!-- custom js file link  -->
+<script src="js/script.js"></script>
+
+</body>
+</html>
